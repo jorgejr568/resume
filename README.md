@@ -1,9 +1,8 @@
 # Jorge Junior
+
 ---
+> Sou um programador backend e frontend. Trabalho com desenvolvimento de aplicações web, sistemas para web, websites e blogs. No momento trabalho com Laravel e Vue.js. Estudante de ciência da computação, apaixonado por programação e amante de desafios.
 
-> Sou um programador backend e frontend. Trabalho com desenvolvimento de aplicações web, sistemas para web, websites e blogs. No momento trabalho com Laravel e Vue.js. 
-
->>Estudante de ciência da computação, apaixonado por programação e amante de desafios.
 ---
 ```php
 <?php
