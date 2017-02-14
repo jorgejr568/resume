@@ -65,12 +65,12 @@ class Resume
 			'SASS',
 			'jQuery',
 			'Laravel',
-      'Bootstrap',
+      			'Bootstrap',
 		],
 		'large' => [
 			'Zend Framework 3',
 			'API RESTfull',
-      'Sistemas para Web'
+      			'Sistemas para Web'
 		],
 		'medium' => [
 			'CSS3',
