@@ -49,6 +49,12 @@ class Resume
 			'function' => 'Desenvolvedor Web e projetista de banco de dados',
 			'start' => '2016-02',
 			'end' => 'now'
+		],
+		[
+			'name' => 'Centro Federal de Educação Tecnológica Celso Suckow da Fonseca',
+			'function' => 'Bolsista de extensão',
+			'start' => '2017-04',
+			'end' => 'now'
 		]
 	];
 
@@ -80,7 +86,8 @@ class Resume
 		'basic' => [
 			'Photoshop e GIMP',
 			'GULP',
-			'NodeJS'
+			'NodeJS',
+			'Express.js'
 		]
 	];
 
